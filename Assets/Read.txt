@@ -1,0 +1,10 @@
+Achei uns assets que retirei desse link:
+https://github.com/AwesomeTuts/3d-beat-em-up-game-assets/blob/master/3D%20Beat%20Em%20Up%20Assets.zip
+
+Para atacar é o botão esquerdo do mouse
+Especial o direito, ele só funciona quando a barra sobre o jogador estivar completa.
+espaço pula
+
+Qualquer dúvida sobre o código ou organização é só chamar.
+
+
